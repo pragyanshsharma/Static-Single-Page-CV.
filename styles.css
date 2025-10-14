@@ -1,0 +1,28 @@
+.MainHeadings {
+   color: rgb(38, 186, 38);
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.Names {
+    color:rgb(12, 88, 126);
+    padding-bottom: -10px;
+}
+
+a {
+    color: black;
+}
+
+hr {
+    margin-top: 50px;
+}
+
+section {
+    margin-bottom: 35px;
+}
+
+section:last-of-type{
+    margin-bottom: 50px;
+}
